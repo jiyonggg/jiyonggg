@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="container" align="center" valign="middle">
   <h1>🖐️ Hello World! I'm Jiyong Kim.</h1>
-  🌐 Web Backend Developer
+  🌐 Web Backend Engineer
   <section id="stats">
     <h2>📊 Stats</h2>
     <div id="items">
