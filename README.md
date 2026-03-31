@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <section id="stats">
     <h2>📊 Stats</h2>
     <div id="items">
-      <image src="https://github-readme-stats.vercel.app/api?username=jiyonggg&show_icons=true&hide_rank=true&theme=dark" alt="github-stat">
+      ![Github Stats](./profile/stats.svg)
       &nbsp;&nbsp;
-      <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyonggg&layout=compact&theme=dark" alt="top-langs">
+      ![Top Langs](./profile/top-langs.svg)
   </section>
   <section id="contact">
     <h2>✉️ Contact</h2>
