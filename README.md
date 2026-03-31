@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <section id="stats">
     <h2>📊 Stats</h2>
     <div id="items">
-      ![Github Stats](./profile/stats.svg)
+      <img src="./profile/stats.svg" alt="github-stats">
       &nbsp;&nbsp;
-      ![Top Langs](./profile/top-langs.svg)
+      <img src="./profile/top-langs.svg" alt="top-langs">
   </section>
   <section id="contact">
     <h2>✉️ Contact</h2>
