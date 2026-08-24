@@ -49,5 +49,8 @@ Here are some ideas to get you started:
       <image src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions-icon">
       <image src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="amazon-aws-icon">
     </div>
+    <div id="items-row-3">
+      <image src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker-icon">
+    </div>
   </section>
 </div>
